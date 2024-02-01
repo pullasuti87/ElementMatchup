@@ -3,5 +3,5 @@
 - utilizes rose pine color theme for highlighting
 - case sensitive
   
-https://pullasuti87.github.io/AtomicLetterMatchup/
+https://pullasuti87.github.io/ElementMatchup/
 

@@ -3,6 +3,6 @@
 - utilizes rose pine color theme for highlighting
 - case sensitive
 
-## y can test it here
+## test it here
 - https://pullasuti87.github.io/ElementMatchup/
 
